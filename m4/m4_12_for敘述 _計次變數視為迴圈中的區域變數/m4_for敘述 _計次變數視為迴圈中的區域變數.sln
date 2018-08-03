@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m4_for敘述 _計次變數視為迴圈中的區域變數", "m4_lab_while敘述\m4_for敘述 _計次變數視為迴圈中的區域變數.csproj", "{20E436A4-2009-4F7F-B587-A9EB827045E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E436A4-2009-4F7F-B587-A9EB827045E1}.Debug|x86.ActiveCfg = Debug|x86
+		{20E436A4-2009-4F7F-B587-A9EB827045E1}.Debug|x86.Build.0 = Debug|x86
+		{20E436A4-2009-4F7F-B587-A9EB827045E1}.Release|x86.ActiveCfg = Release|x86
+		{20E436A4-2009-4F7F-B587-A9EB827045E1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

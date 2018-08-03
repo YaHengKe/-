@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\上課內容\m7\m7\m7_1_demo_使用靜態資料_使用靜態方法\bin\Debug\11_建立物件.exe.config
+C:\Users\III\Desktop\上課內容\m7\m7\m7_1_demo_使用靜態資料_使用靜態方法\bin\Debug\11_建立物件.exe
+C:\Users\III\Desktop\上課內容\m7\m7\m7_1_demo_使用靜態資料_使用靜態方法\bin\Debug\11_建立物件.pdb
+C:\Users\III\Desktop\上課內容\m7\m7\m7_1_demo_使用靜態資料_使用靜態方法\obj\Debug\m7_demo_建立物件.csprojAssemblyReference.cache
+C:\Users\III\Desktop\上課內容\m7\m7\m7_1_demo_使用靜態資料_使用靜態方法\obj\Debug\m7_demo_建立物件.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\上課內容\m7\m7\m7_1_demo_使用靜態資料_使用靜態方法\obj\Debug\11_建立物件.exe
+C:\Users\III\Desktop\上課內容\m7\m7\m7_1_demo_使用靜態資料_使用靜態方法\obj\Debug\11_建立物件.pdb

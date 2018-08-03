@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m5_lab2_呼叫_靜態方法", "m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法\m5_lab2_呼叫_靜態方法.csproj", "{A9CCE48C-1E45-47D1-8C54-BBBD745F69D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CCE48C-1E45-47D1-8C54-BBBD745F69D3}.Debug|x86.ActiveCfg = Debug|x86
+		{A9CCE48C-1E45-47D1-8C54-BBBD745F69D3}.Debug|x86.Build.0 = Debug|x86
+		{A9CCE48C-1E45-47D1-8C54-BBBD745F69D3}.Release|x86.ActiveCfg = Release|x86
+		{A9CCE48C-1E45-47D1-8C54-BBBD745F69D3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

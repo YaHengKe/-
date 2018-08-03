@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_20_demo_do敘述\m4_lab_while敘述\bin\Debug\m4_lab_while敘述.exe
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_20_demo_do敘述\m4_lab_while敘述\bin\Debug\m4_lab_while敘述.pdb
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_20_demo_do敘述\m4_lab_while敘述\obj\x86\Debug\m4_demo_do敘述.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_20_demo_do敘述\m4_lab_while敘述\obj\x86\Debug\m4_demo_do敘述.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_20_demo_do敘述\m4_lab_while敘述\obj\x86\Debug\m4_lab_while敘述.exe
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_20_demo_do敘述\m4_lab_while敘述\obj\x86\Debug\m4_lab_while敘述.pdb

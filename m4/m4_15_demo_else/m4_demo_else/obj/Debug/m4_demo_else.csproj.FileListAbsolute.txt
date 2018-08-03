@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_15_demo_else\m4_demo_else\bin\Debug\m4_demo_else.exe.config
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_15_demo_else\m4_demo_else\bin\Debug\m4_demo_else.exe
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_15_demo_else\m4_demo_else\bin\Debug\m4_demo_else.pdb
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_15_demo_else\m4_demo_else\obj\Debug\m4_demo_else.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_15_demo_else\m4_demo_else\obj\Debug\m4_demo_else.exe
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_15_demo_else\m4_demo_else\obj\Debug\m4_demo_else.pdb

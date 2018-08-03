@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\m3\m3_20_demo_Parse\m3_demo_Parse\bin\Debug\m3_demo_Parse.exe.config
+C:\Users\III\Desktop\m3\m3_20_demo_Parse\m3_demo_Parse\bin\Debug\m3_demo_Parse.exe
+C:\Users\III\Desktop\m3\m3_20_demo_Parse\m3_demo_Parse\bin\Debug\m3_demo_Parse.pdb
+C:\Users\III\Desktop\m3\m3_20_demo_Parse\m3_demo_Parse\obj\Debug\m3_demo_Parse.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m3\m3_20_demo_Parse\m3_demo_Parse\obj\Debug\m3_demo_Parse.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m3\m3_20_demo_Parse\m3_demo_Parse\obj\Debug\m3_demo_Parse.exe
+C:\Users\III\Desktop\m3\m3_20_demo_Parse\m3_demo_Parse\obj\Debug\m3_demo_Parse.pdb

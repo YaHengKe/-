@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m3_lab_用遞增讓一個變數所存的值是原來的值加1的和", "m3_lab_用遞增讓一個變數所存的值是原來的值加1的和\m3_lab_用遞增讓一個變數所存的值是原來的值加1的和.csproj", "{D2338602-019D-4E80-9119-1909F05B63C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2338602-019D-4E80-9119-1909F05B63C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2338602-019D-4E80-9119-1909F05B63C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2338602-019D-4E80-9119-1909F05B63C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2338602-019D-4E80-9119-1909F05B63C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\上課內容\m6\m6_7_demo_傳遞陣列參數\m6_傳遞陣列參數\bin\Debug\m6_傳遞陣列參數.exe
+C:\Users\III\Desktop\上課內容\m6\m6_7_demo_傳遞陣列參數\m6_傳遞陣列參數\bin\Debug\m6_傳遞陣列參數.pdb
+C:\Users\III\Desktop\上課內容\m6\m6_7_demo_傳遞陣列參數\m6_傳遞陣列參數\obj\x86\Debug\m6_傳遞陣列參數.csprojAssemblyReference.cache
+C:\Users\III\Desktop\上課內容\m6\m6_7_demo_傳遞陣列參數\m6_傳遞陣列參數\obj\x86\Debug\m6_傳遞陣列參數.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\上課內容\m6\m6_7_demo_傳遞陣列參數\m6_傳遞陣列參數\obj\x86\Debug\m6_傳遞陣列參數.exe
+C:\Users\III\Desktop\上課內容\m6\m6_7_demo_傳遞陣列參數\m6_傳遞陣列參數\obj\x86\Debug\m6_傳遞陣列參數.pdb

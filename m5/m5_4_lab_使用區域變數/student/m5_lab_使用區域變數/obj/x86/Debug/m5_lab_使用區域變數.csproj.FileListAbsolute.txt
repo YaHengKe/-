@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\m5\m5\m5_4_lab_使用區域變數\student\m5_lab_使用區域變數\bin\Debug\m5_lab_使用區域變數.exe
+C:\Users\III\Desktop\m5\m5\m5_4_lab_使用區域變數\student\m5_lab_使用區域變數\bin\Debug\m5_lab_使用區域變數.pdb
+C:\Users\III\Desktop\m5\m5\m5_4_lab_使用區域變數\student\m5_lab_使用區域變數\obj\x86\Debug\m5_lab_使用區域變數.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m5\m5\m5_4_lab_使用區域變數\student\m5_lab_使用區域變數\obj\x86\Debug\m5_lab_使用區域變數.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m5\m5\m5_4_lab_使用區域變數\student\m5_lab_使用區域變數\obj\x86\Debug\m5_lab_使用區域變數.exe
+C:\Users\III\Desktop\m5\m5\m5_4_lab_使用區域變數\student\m5_lab_使用區域變數\obj\x86\Debug\m5_lab_使用區域變數.pdb

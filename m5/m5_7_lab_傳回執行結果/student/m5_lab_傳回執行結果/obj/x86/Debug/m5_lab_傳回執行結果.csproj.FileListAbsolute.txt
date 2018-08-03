@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\m5\m5\m5_7_lab_傳回執行結果\student\m5_lab_傳回執行結果\bin\Debug\m5_lab_傳回執行結果.exe
+C:\Users\III\Desktop\m5\m5\m5_7_lab_傳回執行結果\student\m5_lab_傳回執行結果\bin\Debug\m5_lab_傳回執行結果.pdb
+C:\Users\III\Desktop\m5\m5\m5_7_lab_傳回執行結果\student\m5_lab_傳回執行結果\obj\x86\Debug\m5_lab_傳回執行結果.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m5\m5\m5_7_lab_傳回執行結果\student\m5_lab_傳回執行結果\obj\x86\Debug\m5_lab_傳回執行結果.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m5\m5\m5_7_lab_傳回執行結果\student\m5_lab_傳回執行結果\obj\x86\Debug\m5_lab_傳回執行結果.exe
+C:\Users\III\Desktop\m5\m5\m5_7_lab_傳回執行結果\student\m5_lab_傳回執行結果\obj\x86\Debug\m5_lab_傳回執行結果.pdb

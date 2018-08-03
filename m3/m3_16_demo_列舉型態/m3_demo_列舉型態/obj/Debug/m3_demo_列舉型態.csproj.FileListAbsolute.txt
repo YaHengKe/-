@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\m3\m3_16_demo_列舉型態\m3_demo_列舉型態\bin\Debug\m3_demo_列舉型態.exe.config
+C:\Users\III\Desktop\m3\m3_16_demo_列舉型態\m3_demo_列舉型態\bin\Debug\m3_demo_列舉型態.exe
+C:\Users\III\Desktop\m3\m3_16_demo_列舉型態\m3_demo_列舉型態\bin\Debug\m3_demo_列舉型態.pdb
+C:\Users\III\Desktop\m3\m3_16_demo_列舉型態\m3_demo_列舉型態\obj\Debug\m3_demo_列舉型態.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m3\m3_16_demo_列舉型態\m3_demo_列舉型態\obj\Debug\m3_demo_列舉型態.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m3\m3_16_demo_列舉型態\m3_demo_列舉型態\obj\Debug\m3_demo_列舉型態.exe
+C:\Users\III\Desktop\m3\m3_16_demo_列舉型態\m3_demo_列舉型態\obj\Debug\m3_demo_列舉型態.pdb

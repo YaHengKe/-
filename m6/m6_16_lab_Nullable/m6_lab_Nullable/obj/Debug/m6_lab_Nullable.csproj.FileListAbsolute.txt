@@ -1,0 +1,2 @@
+C:\Users\III\Desktop\上課內容\m6\m6_16_lab_Nullable\m6_lab_Nullable\obj\Debug\m6_lab_Nullable.csprojAssemblyReference.cache
+C:\Users\III\Desktop\上課內容\m6\m6_16_lab_Nullable\m6_lab_Nullable\obj\Debug\m6_lab_Nullable.csproj.CoreCompileInputs.cache

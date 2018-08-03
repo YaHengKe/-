@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\m6\m6\m6_1_demo_建立陣列物件\student\m6_lab_取用陣列的資料\bin\Debug\m6_lab_取用陣列的資料.exe
+C:\Users\III\Desktop\m6\m6\m6_1_demo_建立陣列物件\student\m6_lab_取用陣列的資料\bin\Debug\m6_lab_取用陣列的資料.pdb
+C:\Users\III\Desktop\m6\m6\m6_1_demo_建立陣列物件\student\m6_lab_取用陣列的資料\obj\x86\Debug\m6_demo_建立陣列物件.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m6\m6\m6_1_demo_建立陣列物件\student\m6_lab_取用陣列的資料\obj\x86\Debug\m6_demo_建立陣列物件.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m6\m6\m6_1_demo_建立陣列物件\student\m6_lab_取用陣列的資料\obj\x86\Debug\m6_lab_取用陣列的資料.exe
+C:\Users\III\Desktop\m6\m6\m6_1_demo_建立陣列物件\student\m6_lab_取用陣列的資料\obj\x86\Debug\m6_lab_取用陣列的資料.pdb

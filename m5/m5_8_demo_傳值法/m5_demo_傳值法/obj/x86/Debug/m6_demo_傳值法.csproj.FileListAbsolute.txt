@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\m5\m5\m5_8_demo_傳值法\m5_demo_傳值法\bin\Debug\m5_demo_傳值法.exe
+C:\Users\III\Desktop\m5\m5\m5_8_demo_傳值法\m5_demo_傳值法\bin\Debug\m5_demo_傳值法.pdb
+C:\Users\III\Desktop\m5\m5\m5_8_demo_傳值法\m5_demo_傳值法\obj\x86\Debug\m6_demo_傳值法.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m5\m5\m5_8_demo_傳值法\m5_demo_傳值法\obj\x86\Debug\m6_demo_傳值法.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m5\m5\m5_8_demo_傳值法\m5_demo_傳值法\obj\x86\Debug\m5_demo_傳值法.exe
+C:\Users\III\Desktop\m5\m5\m5_8_demo_傳值法\m5_demo_傳值法\obj\x86\Debug\m5_demo_傳值法.pdb

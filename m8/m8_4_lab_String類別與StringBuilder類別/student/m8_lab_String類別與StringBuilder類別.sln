@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m8_lab_String類別與StringBuilder類別", "m7_String類別與StringBuilder類別\m8_lab_String類別與StringBuilder類別.csproj", "{B0C28FF1-C7BF-4EE4-8EAA-A8C9BEAB633D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C28FF1-C7BF-4EE4-8EAA-A8C9BEAB633D}.Debug|x86.ActiveCfg = Debug|x86
+		{B0C28FF1-C7BF-4EE4-8EAA-A8C9BEAB633D}.Debug|x86.Build.0 = Debug|x86
+		{B0C28FF1-C7BF-4EE4-8EAA-A8C9BEAB633D}.Release|x86.ActiveCfg = Release|x86
+		{B0C28FF1-C7BF-4EE4-8EAA-A8C9BEAB633D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

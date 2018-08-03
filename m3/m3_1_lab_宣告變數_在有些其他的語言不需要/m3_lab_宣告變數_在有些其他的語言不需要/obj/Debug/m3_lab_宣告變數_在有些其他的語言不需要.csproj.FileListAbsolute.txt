@@ -1,0 +1,2 @@
+C:\Users\III\Desktop\m3\m3_1_lab_宣告變數_在有些其他的語言不需要\m3_lab_宣告變數_在有些其他的語言不需要\obj\Debug\m3_lab_宣告變數_在有些其他的語言不需要.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m3\m3_1_lab_宣告變數_在有些其他的語言不需要\m3_lab_宣告變數_在有些其他的語言不需要\obj\Debug\m3_lab_宣告變數_在有些其他的語言不需要.csproj.CoreCompileInputs.cache

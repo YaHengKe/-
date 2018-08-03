@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\m3\m3_3_lab_如何算出較精準的商_算數運算\m3_lab_如何算出較精準的商_算數運算\bin\Debug\m3_lab_如何算出較精準的商_算數運算.exe.config
+C:\Users\III\Desktop\m3\m3_3_lab_如何算出較精準的商_算數運算\m3_lab_如何算出較精準的商_算數運算\bin\Debug\m3_lab_如何算出較精準的商_算數運算.exe
+C:\Users\III\Desktop\m3\m3_3_lab_如何算出較精準的商_算數運算\m3_lab_如何算出較精準的商_算數運算\bin\Debug\m3_lab_如何算出較精準的商_算數運算.pdb
+C:\Users\III\Desktop\m3\m3_3_lab_如何算出較精準的商_算數運算\m3_lab_如何算出較精準的商_算數運算\obj\Debug\m3_lab_如何算出較精準的商_算數運算.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m3\m3_3_lab_如何算出較精準的商_算數運算\m3_lab_如何算出較精準的商_算數運算\obj\Debug\m3_lab_如何算出較精準的商_算數運算.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m3\m3_3_lab_如何算出較精準的商_算數運算\m3_lab_如何算出較精準的商_算數運算\obj\Debug\m3_lab_如何算出較精準的商_算數運算.exe
+C:\Users\III\Desktop\m3\m3_3_lab_如何算出較精準的商_算數運算\m3_lab_如何算出較精準的商_算數運算\obj\Debug\m3_lab_如何算出較精準的商_算數運算.pdb

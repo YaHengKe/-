@@ -1,0 +1,10 @@
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\bin\Debug\m5_demo_對程式除錯.exe.config
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\bin\Debug\m5_demo_對程式除錯.exe
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\bin\Debug\m5_demo_對程式除錯.pdb
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\obj\Debug\m3_6_demo_對程式除錯.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\obj\Debug\m5_demo_對程式除錯.Form1.resources
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\obj\Debug\m5_demo_對程式除錯.Properties.Resources.resources
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\obj\Debug\m3_6_demo_對程式除錯.csproj.GenerateResource.cache
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\obj\Debug\m3_6_demo_對程式除錯.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\obj\Debug\m5_demo_對程式除錯.exe
+C:\Users\III\Desktop\m3\m3_6_demo_對程式除錯\m5_demo_對程式除錯\obj\Debug\m5_demo_對程式除錯.pdb

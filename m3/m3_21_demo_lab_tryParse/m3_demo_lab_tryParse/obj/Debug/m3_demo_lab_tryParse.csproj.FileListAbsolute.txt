@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\m3\m3_21_demo_lab_tryParse\m3_demo_lab_tryParse\obj\Debug\m3_demo_lab_tryParse.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m3\m3_21_demo_lab_tryParse\m3_demo_lab_tryParse\obj\Debug\m3_demo_lab_tryParse.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m3\m3_21_demo_lab_tryParse\m3_demo_lab_tryParse\bin\Debug\m3_demo_lab_tryParse.exe.config
+C:\Users\III\Desktop\m3\m3_21_demo_lab_tryParse\m3_demo_lab_tryParse\bin\Debug\m3_demo_lab_tryParse.exe
+C:\Users\III\Desktop\m3\m3_21_demo_lab_tryParse\m3_demo_lab_tryParse\bin\Debug\m3_demo_lab_tryParse.pdb
+C:\Users\III\Desktop\m3\m3_21_demo_lab_tryParse\m3_demo_lab_tryParse\obj\Debug\m3_demo_lab_tryParse.exe
+C:\Users\III\Desktop\m3\m3_21_demo_lab_tryParse\m3_demo_lab_tryParse\obj\Debug\m3_demo_lab_tryParse.pdb

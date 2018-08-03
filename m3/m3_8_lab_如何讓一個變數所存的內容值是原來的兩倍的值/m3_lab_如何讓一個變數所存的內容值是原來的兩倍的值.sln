@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m3_lab_如何讓一個變數所存的內容值是原來的兩倍的值", "m3_lab_如何讓一個變數所存的內容值是原來的兩倍的值\m3_lab_如何讓一個變數所存的內容值是原來的兩倍的值.csproj", "{BBC28EB2-4E37-4C1F-B383-3E07551D79BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC28EB2-4E37-4C1F-B383-3E07551D79BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC28EB2-4E37-4C1F-B383-3E07551D79BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC28EB2-4E37-4C1F-B383-3E07551D79BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC28EB2-4E37-4C1F-B383-3E07551D79BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

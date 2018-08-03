@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\m3\m3_5_lab_一般錯誤除錯\m5_一般錯誤除錯\bin\Debug\m5_一般錯誤除錯.exe.config
+C:\Users\III\Desktop\m3\m3_5_lab_一般錯誤除錯\m5_一般錯誤除錯\bin\Debug\m5_一般錯誤除錯.exe
+C:\Users\III\Desktop\m3\m3_5_lab_一般錯誤除錯\m5_一般錯誤除錯\bin\Debug\m5_一般錯誤除錯.pdb
+C:\Users\III\Desktop\m3\m3_5_lab_一般錯誤除錯\m5_一般錯誤除錯\obj\Debug\m3_lab_一般錯誤除錯.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m3\m3_5_lab_一般錯誤除錯\m5_一般錯誤除錯\obj\Debug\m3_lab_一般錯誤除錯.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m3\m3_5_lab_一般錯誤除錯\m5_一般錯誤除錯\obj\Debug\m5_一般錯誤除錯.exe
+C:\Users\III\Desktop\m3\m3_5_lab_一般錯誤除錯\m5_一般錯誤除錯\obj\Debug\m5_一般錯誤除錯.pdb

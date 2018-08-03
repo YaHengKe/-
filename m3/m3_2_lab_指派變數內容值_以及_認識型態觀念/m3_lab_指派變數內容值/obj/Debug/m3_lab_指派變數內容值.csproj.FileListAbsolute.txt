@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\m3\m3_2_lab_指派變數內容值_以及_認識型態觀念\m3_lab_指派變數內容值\obj\Debug\m3_lab_指派變數內容值.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m3\m3_2_lab_指派變數內容值_以及_認識型態觀念\m3_lab_指派變數內容值\obj\Debug\m3_lab_指派變數內容值.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m3\m3_2_lab_指派變數內容值_以及_認識型態觀念\m3_lab_指派變數內容值\bin\Debug\m3_lab_指派變數內容值.exe.config
+C:\Users\III\Desktop\m3\m3_2_lab_指派變數內容值_以及_認識型態觀念\m3_lab_指派變數內容值\bin\Debug\m3_lab_指派變數內容值.exe
+C:\Users\III\Desktop\m3\m3_2_lab_指派變數內容值_以及_認識型態觀念\m3_lab_指派變數內容值\bin\Debug\m3_lab_指派變數內容值.pdb
+C:\Users\III\Desktop\m3\m3_2_lab_指派變數內容值_以及_認識型態觀念\m3_lab_指派變數內容值\obj\Debug\m3_lab_指派變數內容值.exe
+C:\Users\III\Desktop\m3\m3_2_lab_指派變數內容值_以及_認識型態觀念\m3_lab_指派變數內容值\obj\Debug\m3_lab_指派變數內容值.pdb

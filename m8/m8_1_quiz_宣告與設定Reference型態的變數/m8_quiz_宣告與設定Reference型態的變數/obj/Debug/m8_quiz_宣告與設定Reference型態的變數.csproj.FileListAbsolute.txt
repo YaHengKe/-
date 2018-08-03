@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\上課內容\m8\m8_1_quiz_宣告與設定Reference型態的變數\m8_quiz_宣告與設定Reference型態的變數\bin\Debug\m8_quiz_宣告與設定Reference型態的變數.exe.config
+C:\Users\III\Desktop\上課內容\m8\m8_1_quiz_宣告與設定Reference型態的變數\m8_quiz_宣告與設定Reference型態的變數\bin\Debug\m8_quiz_宣告與設定Reference型態的變數.exe
+C:\Users\III\Desktop\上課內容\m8\m8_1_quiz_宣告與設定Reference型態的變數\m8_quiz_宣告與設定Reference型態的變數\bin\Debug\m8_quiz_宣告與設定Reference型態的變數.pdb
+C:\Users\III\Desktop\上課內容\m8\m8_1_quiz_宣告與設定Reference型態的變數\m8_quiz_宣告與設定Reference型態的變數\obj\Debug\m8_quiz_宣告與設定Reference型態的變數.csprojAssemblyReference.cache
+C:\Users\III\Desktop\上課內容\m8\m8_1_quiz_宣告與設定Reference型態的變數\m8_quiz_宣告與設定Reference型態的變數\obj\Debug\m8_quiz_宣告與設定Reference型態的變數.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\上課內容\m8\m8_1_quiz_宣告與設定Reference型態的變數\m8_quiz_宣告與設定Reference型態的變數\obj\Debug\m8_quiz_宣告與設定Reference型態的變數.exe
+C:\Users\III\Desktop\上課內容\m8\m8_1_quiz_宣告與設定Reference型態的變數\m8_quiz_宣告與設定Reference型態的變數\obj\Debug\m8_quiz_宣告與設定Reference型態的變數.pdb

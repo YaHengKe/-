@@ -1,0 +1,5 @@
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_19_demo_foreach敘述\student\m4_lab_foreach敘述_解答\obj\x86\Debug\m4_demo_foreach.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_19_demo_foreach敘述\student\m4_lab_foreach敘述_解答\bin\Debug\m4_lab_foreach敘述_解答.exe
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_19_demo_foreach敘述\student\m4_lab_foreach敘述_解答\bin\Debug\m4_lab_foreach敘述_解答.pdb
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_19_demo_foreach敘述\student\m4_lab_foreach敘述_解答\obj\x86\Debug\m4_lab_foreach敘述_解答.exe
+C:\Users\III\Desktop\m4_aug1am_other_than_jul27\m4_aug1am_other_than_jul27\m4_19_demo_foreach敘述\student\m4_lab_foreach敘述_解答\obj\x86\Debug\m4_lab_foreach敘述_解答.pdb

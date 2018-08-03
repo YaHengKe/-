@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m3_lab_print_odd_or_even", "m3_lab_print_odd_or_even\m3_lab_print_odd_or_even.csproj", "{F01FB2BD-153C-45D4-9E2D-29A58995A891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01FB2BD-153C-45D4-9E2D-29A58995A891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01FB2BD-153C-45D4-9E2D-29A58995A891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01FB2BD-153C-45D4-9E2D-29A58995A891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01FB2BD-153C-45D4-9E2D-29A58995A891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

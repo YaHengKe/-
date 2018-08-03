@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m7_demo_使用預設建構子", "m9_demo_改寫建構子\m7_demo_使用預設建構子.csproj", "{85126AAC-DA1E-4800-AB47-49582C256ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85126AAC-DA1E-4800-AB47-49582C256ADE}.Debug|x86.ActiveCfg = Debug|x86
+		{85126AAC-DA1E-4800-AB47-49582C256ADE}.Debug|x86.Build.0 = Debug|x86
+		{85126AAC-DA1E-4800-AB47-49582C256ADE}.Release|x86.ActiveCfg = Release|x86
+		{85126AAC-DA1E-4800-AB47-49582C256ADE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

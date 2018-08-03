@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m5_lab_使用變動個數的參數", "m5_lab_使用變動個數的參數\m5_lab_使用變動個數的參數.csproj", "{1BEE17E2-8AA9-401C-A499-1F1D19C3D312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BEE17E2-8AA9-401C-A499-1F1D19C3D312}.Debug|x86.ActiveCfg = Debug|x86
+		{1BEE17E2-8AA9-401C-A499-1F1D19C3D312}.Debug|x86.Build.0 = Debug|x86
+		{1BEE17E2-8AA9-401C-A499-1F1D19C3D312}.Release|x86.ActiveCfg = Release|x86
+		{1BEE17E2-8AA9-401C-A499-1F1D19C3D312}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

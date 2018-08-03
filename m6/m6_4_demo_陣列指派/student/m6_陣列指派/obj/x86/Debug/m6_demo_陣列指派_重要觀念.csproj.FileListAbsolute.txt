@@ -1,0 +1,12 @@
+C:\Users\III\Desktop\m6\m6\m6_4_demo_陣列指派\student\m6_陣列指派\bin\Debug\m6_陣列指派.exe
+C:\Users\III\Desktop\m6\m6\m6_4_demo_陣列指派\student\m6_陣列指派\bin\Debug\m6_陣列指派.pdb
+C:\Users\III\Desktop\m6\m6\m6_4_demo_陣列指派\student\m6_陣列指派\obj\x86\Debug\m6_demo_陣列指派_重要觀念.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m6\m6\m6_4_demo_陣列指派\student\m6_陣列指派\obj\x86\Debug\m6_demo_陣列指派_重要觀念.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m6\m6\m6_4_demo_陣列指派\student\m6_陣列指派\obj\x86\Debug\m6_陣列指派.exe
+C:\Users\III\Desktop\m6\m6\m6_4_demo_陣列指派\student\m6_陣列指派\obj\x86\Debug\m6_陣列指派.pdb
+C:\Users\III\Desktop\上課內容\m6\m6_4_demo_陣列指派\student\m6_陣列指派\bin\Debug\m6_陣列指派.exe
+C:\Users\III\Desktop\上課內容\m6\m6_4_demo_陣列指派\student\m6_陣列指派\bin\Debug\m6_陣列指派.pdb
+C:\Users\III\Desktop\上課內容\m6\m6_4_demo_陣列指派\student\m6_陣列指派\obj\x86\Debug\m6_demo_陣列指派_重要觀念.csprojAssemblyReference.cache
+C:\Users\III\Desktop\上課內容\m6\m6_4_demo_陣列指派\student\m6_陣列指派\obj\x86\Debug\m6_demo_陣列指派_重要觀念.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\上課內容\m6\m6_4_demo_陣列指派\student\m6_陣列指派\obj\x86\Debug\m6_陣列指派.exe
+C:\Users\III\Desktop\上課內容\m6\m6_4_demo_陣列指派\student\m6_陣列指派\obj\x86\Debug\m6_陣列指派.pdb

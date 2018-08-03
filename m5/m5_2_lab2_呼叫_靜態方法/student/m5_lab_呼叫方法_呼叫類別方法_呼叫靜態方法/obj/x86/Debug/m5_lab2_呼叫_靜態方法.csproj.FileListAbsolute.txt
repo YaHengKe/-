@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\m5\m5\m5_2_lab2_呼叫_靜態方法\student\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法\bin\Debug\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法.exe
+C:\Users\III\Desktop\m5\m5\m5_2_lab2_呼叫_靜態方法\student\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法\bin\Debug\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法.pdb
+C:\Users\III\Desktop\m5\m5\m5_2_lab2_呼叫_靜態方法\student\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法\obj\x86\Debug\m5_lab2_呼叫_靜態方法.csprojAssemblyReference.cache
+C:\Users\III\Desktop\m5\m5\m5_2_lab2_呼叫_靜態方法\student\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法\obj\x86\Debug\m5_lab2_呼叫_靜態方法.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\m5\m5\m5_2_lab2_呼叫_靜態方法\student\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法\obj\x86\Debug\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法.exe
+C:\Users\III\Desktop\m5\m5\m5_2_lab2_呼叫_靜態方法\student\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法\obj\x86\Debug\m5_lab_呼叫方法_呼叫類別方法_呼叫靜態方法.pdb

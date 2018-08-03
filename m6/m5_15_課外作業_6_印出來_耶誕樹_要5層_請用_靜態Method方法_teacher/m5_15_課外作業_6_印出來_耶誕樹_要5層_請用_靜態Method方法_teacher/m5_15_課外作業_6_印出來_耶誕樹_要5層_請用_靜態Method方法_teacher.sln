@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m5_15_課外作業_6_印出來_耶誕樹_要5層_請用_靜態Method方法_teacher", "m5_15_課外作業_6_印出來_耶誕樹_要5層_請用_靜態Method方法_teacher\m5_15_課外作業_6_印出來_耶誕樹_要5層_請用_靜態Method方法_teacher.csproj", "{02C59710-8CB0-47B9-923D-06C30E7367BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C59710-8CB0-47B9-923D-06C30E7367BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C59710-8CB0-47B9-923D-06C30E7367BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C59710-8CB0-47B9-923D-06C30E7367BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C59710-8CB0-47B9-923D-06C30E7367BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA7EAF64-27FC-4F24-9553-18418B94FB9E}
+	EndGlobalSection
+EndGlobal

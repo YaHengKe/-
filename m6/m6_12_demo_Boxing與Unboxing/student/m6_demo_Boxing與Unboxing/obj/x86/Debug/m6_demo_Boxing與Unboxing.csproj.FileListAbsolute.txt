@@ -1,0 +1,6 @@
+C:\Users\III\Desktop\上課內容\m6\m6_12_demo_Boxing與Unboxing\student\m6_demo_Boxing與Unboxing\bin\Debug\m6_demo_Boxing與Unboxing.exe
+C:\Users\III\Desktop\上課內容\m6\m6_12_demo_Boxing與Unboxing\student\m6_demo_Boxing與Unboxing\bin\Debug\m6_demo_Boxing與Unboxing.pdb
+C:\Users\III\Desktop\上課內容\m6\m6_12_demo_Boxing與Unboxing\student\m6_demo_Boxing與Unboxing\obj\x86\Debug\m6_demo_Boxing與Unboxing.csprojAssemblyReference.cache
+C:\Users\III\Desktop\上課內容\m6\m6_12_demo_Boxing與Unboxing\student\m6_demo_Boxing與Unboxing\obj\x86\Debug\m6_demo_Boxing與Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\上課內容\m6\m6_12_demo_Boxing與Unboxing\student\m6_demo_Boxing與Unboxing\obj\x86\Debug\m6_demo_Boxing與Unboxing.exe
+C:\Users\III\Desktop\上課內容\m6\m6_12_demo_Boxing與Unboxing\student\m6_demo_Boxing與Unboxing\obj\x86\Debug\m6_demo_Boxing與Unboxing.pdb

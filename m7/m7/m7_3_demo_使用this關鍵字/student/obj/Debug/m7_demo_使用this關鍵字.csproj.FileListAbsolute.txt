@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\上課內容\m7\m7\m7_3_demo_使用this關鍵字\student\bin\Debug\11_建立物件.exe.config
+C:\Users\III\Desktop\上課內容\m7\m7\m7_3_demo_使用this關鍵字\student\bin\Debug\11_建立物件.exe
+C:\Users\III\Desktop\上課內容\m7\m7\m7_3_demo_使用this關鍵字\student\bin\Debug\11_建立物件.pdb
+C:\Users\III\Desktop\上課內容\m7\m7\m7_3_demo_使用this關鍵字\student\obj\Debug\m7_demo_使用this關鍵字.csprojAssemblyReference.cache
+C:\Users\III\Desktop\上課內容\m7\m7\m7_3_demo_使用this關鍵字\student\obj\Debug\m7_demo_使用this關鍵字.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\上課內容\m7\m7\m7_3_demo_使用this關鍵字\student\obj\Debug\11_建立物件.exe
+C:\Users\III\Desktop\上課內容\m7\m7\m7_3_demo_使用this關鍵字\student\obj\Debug\11_建立物件.pdb
